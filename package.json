@@ -1,0 +1,27 @@
+{
+  "name": "ng-template-webpack-loader",
+  "version": "1.0.0",
+  "description": "AngularJS webpack loader that create separate file from .html files, minimize .html files and provide module name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailLU/ng-template-url-webpack-loader.git"
+  },
+  "keywords": [
+    "angular",
+    "webpack",
+    "ng-template",
+    "templateUrl",
+    "templates",
+    "html"
+  ],
+  "author": "Mikhail Nagaraev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailLU/ng-template-url-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/MikhailLU/ng-template-url-webpack-loader#readme"
+}
